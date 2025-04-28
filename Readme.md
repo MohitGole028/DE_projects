@@ -35,4 +35,5 @@ From the Data Warehouse project:
 
 📬 Connect with Me
 Mohit Gole
-🔗 LinkedIn | 📧 golemohitrajendra@gmail.com
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohit-gole)
+ | 📧 golemohitrajendra@gmail.com
